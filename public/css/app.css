@@ -1,0 +1,17 @@
+.container {
+  margin: 0 auto;
+  width: 70vw;
+}
+
+.form {
+  margin: 0 auto;
+  width: 20%;
+}
+
+.mainTitle {
+  text-align: center;
+}
+
+.addList {
+  margin-top: 60px;
+}
